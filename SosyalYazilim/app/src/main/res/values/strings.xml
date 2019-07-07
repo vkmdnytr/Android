@@ -1,0 +1,20 @@
+<resources>
+
+    <!--TOOLBAR -->
+    <string name="app_name">SosyalYazilim</string>
+    <string name="login">Login</string>
+    <!-- MESSAGE -->
+    <string name="action_leave">Leave</string>
+    <string name="action_send">Send</string>
+    <string name="prompt_message">Message</string>
+    <!--MENU-->
+    <string name="action_connect">Connect</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="action_mock_list">Mock List</string>
+
+    <!--MESSAGE-->
+    <string name="connect">Connected</string>
+    <string name="disconnect">Disconnected, Please check your internet connection</string>
+    <string name="error_field_required">This field is required</string>
+
+</resources>

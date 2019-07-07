@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='io.reactivex.Flowable io.reactivex.disposables.Disposable subscribe(io.reactivex.functions.Consumer&lt;? super T&gt;)'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
