@@ -77,8 +77,8 @@ class MessageAdapter(context: Context) : RecyclerView.Adapter<RecyclerView.ViewH
         notifyDataSetChanged()
 
 //        Fixme  ALL DELETE
-        mMessages.clear()
-        notifyDataSetChanged()
+//        mMessages.clear()
+//        notifyDataSetChanged()
 
     }
 }
